@@ -21,8 +21,11 @@ Application running from local install.
 <img src=".\Assets\Local.GIF" width ="700"> 
 
 
-## Notes
-This app is deployed on Heroku.
+## Link to deployed application on Heroku
+
+<a href="https://jate-app-liz.herokuapp.com/">
+https://jate-app-liz.herokuapp.com/</a>
+
 
 ## Link to GitHub code repository for application
 
